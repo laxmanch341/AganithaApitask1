@@ -16,4 +16,5 @@ test="two dollars"
 TextTranslator(test)
 ## output
 print(test)
+
 $2
