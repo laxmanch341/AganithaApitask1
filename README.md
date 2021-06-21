@@ -12,6 +12,7 @@ import spoken2written
 from spoken2written import TextTranslator 
 ## input
 test="two dollars"
+
 TextTranslator(test)
 ## output
 print(test)
