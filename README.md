@@ -8,13 +8,13 @@ run the following command
 pip install spoken2written
 
 # usage
-import spoken2written
-from spoken2written import TextTranslator 
+>import spoken2written
+>from spoken2written import TextTranslator 
 ## input
-test="two dollars"
+>test="two dollars"
 
-TextTranslator(test)
+>TextTranslator(test)
 ## output
-print(test)
+>print(test)
 
-$2
+>$2
