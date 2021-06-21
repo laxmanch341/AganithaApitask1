@@ -10,7 +10,7 @@ pip install spoken2written
 # usage
 >import spoken2written
 >from spoken2written import TextTranslator 
-# input
+## input
 >test="two dollars"
 
 >TextTranslator(test)
